@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ABS-NXT/ABS-NXT/main/assets/hi.gif" height="30px"/>
-</p>
-
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working on *[Blockchain-based FIR system]*.
