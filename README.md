@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Aditya (Aditya-creator173)! 
 
-<!--
-**Aditya-creator173/Aditya-creator173** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ABS-NXT/ABS-NXT/main/assets/hi.gif" height="30px"/>
+</p>
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on *[Your current project or interest]*.
+- 🌱 I’m currently learning *[e.g., Next.js, GoLang, Cloud Architecture]*.
+- 👯 I’m looking to collaborate on *[e.g., Open Source projects]*.
+- 💬 Ask me about *[Data Analytics, Generative AI and Agentic AI]*.
+  
+
+---
