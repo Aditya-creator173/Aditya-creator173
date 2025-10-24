@@ -12,10 +12,15 @@
 - 💬 Ask me about *[Data Analytics, Generative AI and Agentic AI]*.
 
 ---
-### 🛠️ Languages and Tools
+### 🛠️ Languages, Frameworks & Tools
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,html,css,js,java,c,cpp,mysql,git,vscode,django,react,tailwind,docker" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,keras,langchain,huggingface,azure,gcp,aws,docker" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=fastapi,powerbi,postgresql,mysql,git,vscode,html,css,javascript" />
   </a>
 </p>
