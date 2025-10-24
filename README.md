@@ -26,13 +26,31 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aditya-creator173&show_icons=true&theme=dark" alt="Aditya-creator173's GitHub Stats"/>
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-creator173&layout=compact&theme=dark" alt="Aditya-creator173's Top Languages"/>
 </p>
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Aditya-creator173&theme=dark_title" alt="Aditya-creator173's GitHub Trophies"/>
+</p>
+
+### 🚀 Recent GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-creator173&theme=github-dark" alt="Aditya's Recent Activity"/>
+</p>
+
+### 🧠 Specialization & Learning Goals
+
+| Domain Focus | Current Deep Dive | Looking to Collaborate On |
+| :--- | :--- | :--- |
+| **Generative AI & LLMs** | **Azure AI & MLOps** | **Open Source AI Projects** |
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Learning-LangChain-1c1c1c?style=for-the-badge&logo=langchain&logoColor=20c20e" alt="Learning LangChain">
+  
+  <img src="https://img.shields.io/badge/Learning-Vertex_AI-1c1c1c?style=for-the-badge&logo=googlecloud&logoColor=4285F4" alt="Learning Google Vertex AI">
+  
+  <img src="https://img.shields.io/badge/Focus-Power_BI_Analytics-1c1c1c?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="Focus Power BI">
 </p>
 
 ---
