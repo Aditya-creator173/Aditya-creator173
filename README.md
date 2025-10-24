@@ -1,5 +1,3 @@
-# Hi there, I'm Aditya! 
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/ABS-NXT/ABS-NXT/main/assets/hi.gif" height="30px"/>
 </p>
