@@ -36,3 +36,17 @@
 </p>
 
 ---
+### 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aditya-creator173&label=Profile%20Views&color=0e76a8&style=flat" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Aditya-creator173/Aditya-creator173/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid"/>
+</p>
+
+<p align="center">
+  <a href="[Your LinkedIn URL]"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:[Your Email Address]"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  </p>
