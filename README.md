@@ -26,3 +26,13 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aditya-creator173&show_icons=true&theme=dark" alt="Aditya-creator173's GitHub Stats"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-creator173&layout=compact&theme=dark" alt="Aditya-creator173's Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aditya-creator173&theme=dark_title" alt="Aditya-creator173's GitHub Trophies"/>
+</p>
+
+---
