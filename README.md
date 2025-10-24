@@ -43,10 +43,6 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aditya-creator173/Aditya-creator173/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid"/>
-</p>
-
-<p align="center">
   <a href="[Your LinkedIn URL]"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:[Your Email Address]"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   </p>
