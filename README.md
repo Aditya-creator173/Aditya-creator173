@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Aditya-creator173/Aditya-creator173/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid"/>
+  <img src="https://raw.githubusercontent.com/Aditya-creator173/Aditya-creator173/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid"/>
 </p>
 
 <p align="center">
