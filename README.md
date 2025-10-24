@@ -16,6 +16,6 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,keras,langchain,huggingface,azure,gcp,aws,docker,fastapi,powerbi,postgresql,mysql,git,vscode,html,css,javascript&perline=10" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,huggingface,langchain,keras,openai,azure,gcp,aws,docker,fastapi,vscode,powerbi,postgresql,mysql,git,hyperledger,javascript,html&perline=10" />
   </a>
 </p>
