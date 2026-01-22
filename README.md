@@ -1,11 +1,3 @@
-### 👨‍💻 About Me
-
-- 🔭 I’m currently working on *[Blockchain-based FIR system]*.
-- 🌱 I’m currently learning *[Next.js, GoLang, Cloud Architecture]*.
-- 👯 I’m looking to collaborate on *[Open Source projects]*.
-- 💬 Ask me about *[Data Analytics, Generative AI and Agentic AI]*.
-
----
 ### 🛠️ Languages, Frameworks & Tools
 
 <p align="left">
