@@ -67,7 +67,6 @@
 | Project | What it actually does | Stack |
 | :--- | :--- | :--- |
 | [**Jarvis**](https://github.com/Aditya-creator173/Jarvis) | Offline-first AI operator — LangGraph state machine executes real filesystem + shell ops with persistent memory. Zero cloud deps. | LangGraph · Qwen2.5 · Whisper · SQLite |
-| [**GenAI Game Assistant**](https://github.com/Aditya-creator173/Project-Jarvis) | Context-aware RAG assistant with <500ms streaming latency via distributed caching | Pinecone · Firebase · FastAPI |
 | [**Agentic API Sandbox**](https://github.com/Vishaal-sathya/tool_chain_env) | OpenENV-compliant tool-chaining env for evaluating LLM agents on structured tasks — Meta × HuggingFace hackathon | Pydantic · FastAPI · Docker |
 
 ---
