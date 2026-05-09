@@ -17,7 +17,7 @@
 | | |
 |:---|:---|
 | 🔵 **Identity** | ![](https://img.shields.io/badge/AI_Systems_Builder-0077b6?style=for-the-badge) |
-| 🟠 **Building** | ![](https://img.shields.io/badge/LLM_Eval_Harness-active-FF6B35?style=for-the-badge) ![](https://img.shields.io/badge/MCP_Integrations-active-FF6B35?style=for-the-badge) ![]|
+| 🟠 **Building** | ![](https://img.shields.io/badge/LLM_Eval_Harness-active-FF6B35?style=for-the-badge) ![](https://img.shields.io/badge/MCP_Integrations-active-FF6B35?style=for-the-badge)|
 | 🟢 **Proven** | ![](https://img.shields.io/badge/LangChain_OSS-merged_PR-1C3C3C?style=for-the-badge&logo=github&logoColor=20c20e) ![](https://img.shields.io/badge/Genpact-Enterprise_AI_Systems-2d6a4f?style=for-the-badge) |
 | 🔴 **Obsession** | ![](https://img.shields.io/badge/Making_LLM_outputs-reliable_·_measurable_·_honest-9b2226?style=for-the-badge) |
 
