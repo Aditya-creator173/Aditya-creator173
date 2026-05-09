@@ -16,8 +16,8 @@
 
 | | |
 |:---|:---|
-| 🔵 **Identity** | ![](https://img.shields.io/badge/AI_Systems_Builder-not_a_vibe_coder-0077b6?style=for-the-badge) |
-| 🟠 **Building** | ![](https://img.shields.io/badge/LLM_Eval_Harness-active-FF6B35?style=for-the-badge) ![](https://img.shields.io/badge/MCP_Integrations-active-FF6B35?style=for-the-badge) ![](https://img.shields.io/badge/IPIBench_Research-active-FF6B35?style=for-the-badge) |
+| 🔵 **Identity** | ![](https://img.shields.io/badge/AI_Systems_Builder-0077b6?style=for-the-badge) |
+| 🟠 **Building** | ![](https://img.shields.io/badge/LLM_Eval_Harness-active-FF6B35?style=for-the-badge) ![](https://img.shields.io/badge/MCP_Integrations-active-FF6B35?style=for-the-badge) ![]|
 | 🟢 **Proven** | ![](https://img.shields.io/badge/LangChain_OSS-merged_PR-1C3C3C?style=for-the-badge&logo=github&logoColor=20c20e) ![](https://img.shields.io/badge/Genpact-Enterprise_AI_Systems-2d6a4f?style=for-the-badge) |
 | 🔴 **Obsession** | ![](https://img.shields.io/badge/Making_LLM_outputs-reliable_·_measurable_·_honest-9b2226?style=for-the-badge) |
 
@@ -71,25 +71,16 @@
 
 ---
 
-### Open source
-
-```
-langchain-ai/langchain  ·  merged  ·  HTMLSemanticPreservingSplitter
-   └── fixed data corruption in placeholder replacement logic
-       deterministic length-based ordering · regression coverage added · CI ✓
-
-modelcontextprotocol/servers  ·  in progress
-```
 
 ---
 
 ### Currently learning
 
 ```
-📐  RL foundations          — Sutton & Barto · reward design · environment architecture
-🔬  LLM fine-tuning         — LoRA · PEFT · Hugging Face PEFT library
+📐  RL foundations          — · Reward design · Environment architecture
+🔬  LLM fine-tuning         — LoRA · Hugging Face PEFT library
 📡  Model Context Protocol  — MCP server architecture · tool chaining patterns
-📊  LLM evaluation methods  — LLM-as-judge · hallucination detection · benchmark design
+📊  LLM evaluation methods  — LLM-as-judge · hallucination detection
 🤖  Agentic system design   — multi-agent coordination · memory systems · failure modes
 📄  AI alignment research   — Constitutional AI · RLHF · Anthropic scaling papers
 ```
