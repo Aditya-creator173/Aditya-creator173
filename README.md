@@ -23,30 +23,39 @@ agent = {
 
 ---
 
-### Stack
+### 💻 Tech Stack
 
-<div align="center">
+**AI & LLM Systems**
 
-**Core tools**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=for-the-badge&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-CC785C?style=for-the-badge&logoColor=white)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,git,postgresql,linux,vscode,gcp&perline=8" />
-</p>
+**Frameworks & Backend**
 
-**AI / ML layer**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-<p>
-<img src="https://img.shields.io/badge/LangChain-Contributor-1c1c1c?style=for-the-badge&logo=chainlink&logoColor=20c20e"/>
-<img src="https://img.shields.io/badge/LangGraph-Agentic_Workflows-1c1c1c?style=for-the-badge&logoColor=orange"/>
-<img src="https://img.shields.io/badge/Ollama-Local_LLMs-1c1c1c?style=for-the-badge&logoColor=white"/>
-</p>
-<p>
-<img src="https://img.shields.io/badge/RAG-Production_Systems-1c1c1c?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/LLM_Evaluation-Active_Research-1c1c1c?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/MCP-Integrations-1c1c1c?style=for-the-badge&logoColor=white"/>
-</p>
+**Cloud & Infra**
 
-</div>
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Core Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -60,14 +69,27 @@ agent = {
 
 ---
 
----
-
-### Currently
+### Open source
 
 ```
-📄  IPIBench — indirect prompt injection benchmark (research paper)
-🔧  MCP open-source contribution
-🎯  LLM evaluation harness → HuggingFace Spaces
+langchain-ai/langchain  ·  merged  ·  HTMLSemanticPreservingSplitter
+   └── fixed data corruption in placeholder replacement logic
+       deterministic length-based ordering · regression coverage added · CI ✓
+
+modelcontextprotocol/servers  ·  in progress
+```
+
+---
+
+### Currently learning
+
+```
+📐  RL foundations          — Sutton & Barto · reward design · environment architecture
+🔬  LLM fine-tuning         — LoRA · PEFT · Hugging Face PEFT library
+📡  Model Context Protocol  — MCP server architecture · tool chaining patterns
+📊  LLM evaluation methods  — LLM-as-judge · hallucination detection · benchmark design
+🤖  Agentic system design   — multi-agent coordination · memory systems · failure modes
+📄  AI alignment research   — Constitutional AI · RLHF · Anthropic scaling papers
 ```
 
 ---
