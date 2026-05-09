@@ -18,7 +18,7 @@
 agent = {
     "identity"  : "AI systems builder, not a vibe coder",
     "current"   : ["LLM eval harness", "MCP integrations", "IPIBench research"],
-    "proven"    : ["LangChain OSS merged PR", "RAG systems @ Genpact Finance"],
+    "proven"    : ["LangChain OSS merged PR", "Enterprise systems @ Genpact"],
     "obsession" : "making LLM outputs more reliable, measurable, and honest",
 }
 ```
@@ -47,9 +47,8 @@ agent = {
 | Project | What it actually does | Stack |
 | :--- | :--- | :--- |
 | [**Jarvis**](https://github.com/Aditya-creator173/Jarvis) | Offline-first AI operator — LangGraph state machine executes real filesystem + shell ops with persistent memory. Zero cloud deps. | LangGraph · Qwen2.5 · Whisper · SQLite |
-| [**GenAI Game Assistant**](https://github.com/Aditya-creator173/Jarvis) | Context-aware RAG assistant with <500ms streaming latency via distributed caching | Pinecone · Firebase · FastAPI |
-| [**Agentic API Sandbox**](https://github.com/Aditya-creator173/AgenticAPISandbox) | OpenENV-compliant tool-chaining env for evaluating LLM agents on structured tasks — Meta × HuggingFace hackathon | Pydantic · FastAPI · Docker |
-| **LLM Eval Harness** *(in progress)* | Benchmarks Claude / GPT-4o / Gemini across 5 quality dimensions with automated scoring | Python · Streamlit · Anthropic API |
+| [**GenAI Game Assistant**](https://github.com/Aditya-creator173/Project-Jarvis) | Context-aware RAG assistant with <500ms streaming latency via distributed caching | Pinecone · Firebase · FastAPI |
+| [**Agentic API Sandbox**](https://github.com/Vishaal-sathya/tool_chain_env) | OpenENV-compliant tool-chaining env for evaluating LLM agents on structured tasks — Meta × HuggingFace hackathon | Pydantic · FastAPI · Docker |
 
 ---
 
@@ -71,7 +70,6 @@ modelcontextprotocol/servers  ·  in progress
 📄  IPIBench — indirect prompt injection benchmark (research paper)
 🔧  MCP open-source contribution
 🎯  LLM evaluation harness → HuggingFace Spaces
-📚  Sutton & Barto Ch.1-3 · Anthropic RLHF paper · Building Effective Agents
 ```
 
 ---
