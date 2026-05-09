@@ -1,11 +1,5 @@
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║         building systems that make LLMs more reliable     ║
-╚═══════════════════════════════════════════════════════════╝
-```
-
 # Aditya L
 
 **AI Systems Builder · LLM Evaluation · Agentic Workflows**
@@ -97,10 +91,9 @@ modelcontextprotocol/servers  ·  in progress
 
 <div align="center">
 
-**Pre-final year CSE @ SRMIST Chennai · 9.11 CGPA · Graduating May 2027**
+**Pre-final year CSE· Graduating May 2027**
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-l-ai)
 [![Email](https://img.shields.io/badge/email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:adityaloganathan23@gmail.com)
-[![GitHub](https://img.shields.io/badge/github-1c1c1c?style=flat-square&logo=github&logoColor=white)](https://github.com/Aditya-creator173)
 
 </div>
