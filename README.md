@@ -1,40 +1,106 @@
-### 🛠️ Languages, Frameworks & Tools
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════╗
+║         building systems that make LLMs more reliable     ║
+╚═══════════════════════════════════════════════════════════╝
+```
+
+# Aditya L
+
+**AI Systems Builder · LLM Evaluation · Agentic Workflows**
+
+[![LangChain Contributor](https://img.shields.io/badge/Open_Source-LangChain_Contributor-1c1c1c?style=flat-square&logo=github&logoColor=20c20e)](https://github.com/langchain-ai/langchain)
+[![MCP](https://img.shields.io/badge/Exploring-Model_Context_Protocol-1c1c1c?style=flat-square&logoColor=white)](https://github.com/modelcontextprotocol)
+[![Anthropic](https://img.shields.io/badge/Target-Frontier_AI_Labs-1c1c1c?style=flat-square&logoColor=white)](https://anthropic.com)
+
+</div>
+
+---
+
+### What I'm actually building
+
+```python
+agent = {
+    "identity"  : "AI systems builder, not a vibe coder",
+    "current"   : ["LLM eval harness", "MCP integrations", "IPIBench research"],
+    "proven"    : ["LangChain OSS merged PR", "RAG systems @ Genpact Finance"],
+    "obsession" : "making LLM outputs more reliable, measurable, and honest",
+}
+```
+
+---
+
+### Stack
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,azure,gcp,aws,docker,fastapi,vscode,postgresql,mysql,git,javascript,html&perline=7" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,git,postgresql,linux,vscode,gcp&perline=8" />
 </p>
+
+**AI/ML layer:**
+
+![LangChain](https://img.shields.io/badge/LangChain-Contributor-1c1c1c?style=flat-square&logo=chainlink&logoColor=20c20e)
+![LangGraph](https://img.shields.io/badge/LangGraph-Agentic_Workflows-1c1c1c?style=flat-square&logoColor=orange)
+![RAG](https://img.shields.io/badge/RAG-Production_Systems-1c1c1c?style=flat-square&logoColor=white)
+![LLM Eval](https://img.shields.io/badge/LLM_Evaluation-Active_Research-1c1c1c?style=flat-square&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-Integrations-1c1c1c?style=flat-square&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-Local_LLMs-1c1c1c?style=flat-square&logoColor=white)
 
 ---
-### 🚀 Recent GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-creator173&theme=github-dark" alt="Aditya's Recent Activity"/>
-</p>
+### Featured projects
 
-### 🧠 Specialization & Learning Goals
-
-| Domain Focus | Current Deep Dive | Looking to Collaborate On |
+| Project | What it actually does | Stack |
 | :--- | :--- | :--- |
-| **Generative AI & LLMs** | **Azure AI & MLOps** | **Open Source AI Projects** |
+| [**Jarvis**](https://github.com/Aditya-creator173/Jarvis) | Offline-first AI operator — LangGraph state machine executes real filesystem + shell ops with persistent memory. Zero cloud deps. | LangGraph · Qwen2.5 · Whisper · SQLite |
+| [**GenAI Game Assistant**](https://github.com/Aditya-creator173/Jarvis) | Context-aware RAG assistant with <500ms streaming latency via distributed caching | Pinecone · Firebase · FastAPI |
+| [**Agentic API Sandbox**](https://github.com/Aditya-creator173/AgenticAPISandbox) | OpenENV-compliant tool-chaining env for evaluating LLM agents on structured tasks — Meta × HuggingFace hackathon | Pydantic · FastAPI · Docker |
+| **LLM Eval Harness** *(in progress)* | Benchmarks Claude / GPT-4o / Gemini across 5 quality dimensions with automated scoring | Python · Streamlit · Anthropic API |
+
+---
+
+### Open source
+
+```
+langchain-ai/langchain  ·  merged  ·  HTMLSemanticPreservingSplitter
+   └── fixed data corruption in placeholder replacement logic
+       deterministic length-based ordering · regression coverage added · CI ✓
+
+modelcontextprotocol/servers  ·  in progress
+```
+
+---
+
+### Currently
+
+```
+📄  IPIBench — indirect prompt injection benchmark (research paper)
+🔧  MCP open-source contribution
+🎯  LLM evaluation harness → HuggingFace Spaces
+📚  Sutton & Barto Ch.1-3 · Anthropic RLHF paper · Building Effective Agents
+```
+
+---
+
+### Activity
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Learning-LangChain-1c1c1c?style=for-the-badge&logo=langchain&logoColor=20c20e" alt="Learning LangChain">
-  
-  <img src="https://img.shields.io/badge/Learning-Vertex_AI-1c1c1c?style=for-the-badge&logo=googlecloud&logoColor=4285F4" alt="Learning Google Vertex AI">
-  
-  <img src="https://img.shields.io/badge/Focus-Power_BI_Analytics-1c1c1c?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="Focus Power BI">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-creator173&theme=github-dark&hide_border=true&area=true" width="95%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aditya-creator173&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide=stars" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-creator173&layout=compact&theme=github_dark&hide_border=true&langs_count=6" width="38%"/>
 </p>
 
 ---
-### 📈 GitHub Activity
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aditya-creator173&label=Profile%20Views&color=0e76a8&style=flat" alt="Profile Views"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="[Your LinkedIn URL]"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:[Your Email Address]"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  </p>
+**Pre-final year CSE @ SRMIST Chennai · 9.11 CGPA · Graduating May 2027**
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-l-ai)
+[![Email](https://img.shields.io/badge/email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:adityaloganathan23@gmail.com)
+[![GitHub](https://img.shields.io/badge/github-1c1c1c?style=flat-square&logo=github&logoColor=white)](https://github.com/Aditya-creator173)
+
+</div>
