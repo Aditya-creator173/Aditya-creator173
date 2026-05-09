@@ -16,7 +16,7 @@
 
 ```python
 agent = {
-    "identity"  : "AI systems builder, not a vibe coder",
+    "identity"  : "AI systems builder",
     "current"   : ["LLM eval harness", "MCP integrations", "IPIBench research"],
     "proven"    : ["LangChain OSS merged PR", "Enterprise systems @ Genpact"],
     "obsession" : "making LLM outputs more reliable, measurable, and honest",
@@ -38,7 +38,6 @@ agent = {
 ![RAG](https://img.shields.io/badge/RAG-Production_Systems-1c1c1c?style=flat-square&logoColor=white)
 ![LLM Eval](https://img.shields.io/badge/LLM_Evaluation-Active_Research-1c1c1c?style=flat-square&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-Integrations-1c1c1c?style=flat-square&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-Local_LLMs-1c1c1c?style=flat-square&logoColor=white)
 
 ---
 
@@ -81,8 +80,6 @@ modelcontextprotocol/servers  ·  in progress
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditya-creator173&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide=stars" width="47%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-creator173&layout=compact&theme=github_dark&hide_border=true&langs_count=6" width="38%"/>
 </p>
 
 ---
