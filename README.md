@@ -60,16 +60,6 @@ agent = {
 
 ---
 
-### Open source
-
-```
-langchain-ai/langchain  ·  merged  ·  HTMLSemanticPreservingSplitter
-   └── fixed data corruption in placeholder replacement logic
-       deterministic length-based ordering · regression coverage added · CI ✓
-
-modelcontextprotocol/servers  ·  in progress
-```
-
 ---
 
 ### Currently
