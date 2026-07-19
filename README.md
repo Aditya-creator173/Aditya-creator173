@@ -67,7 +67,7 @@
 | Project | What it actually does | Stack |
 | :--- | :--- | :--- |
 | [**Jarvis**](https://github.com/Aditya-creator173/Jarvis) | Offline-first AI operator — LangGraph state machine executes real filesystem + shell ops with persistent memory. Zero cloud deps. | LangGraph · Qwen2.5 · Whisper · SQLite |
-| [**Agentic API Sandbox**](https://github.com/Vishaal-sathya/tool_chain_env) | OpenENV-compliant tool-chaining env for evaluating LLM agents on structured tasks — Meta × HuggingFace hackathon | Pydantic · FastAPI · Docker |
+| [**IPIBench**](https://github.com/Aditya-creator173/IPI) | A Cross-Architecture Benchmark for Indirect Prompt Injection Resistance in Large Language Models | LLMs · Adversarial Robustness · AI Safety |
 
 ---
 
@@ -97,7 +97,7 @@
 
 <div align="center">
 
-**Pre-final year CSE · Graduating May 2027**
+**Final year CSE · Graduating May 2027**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-l-ai)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:adityaloganathan23@gmail.com)
